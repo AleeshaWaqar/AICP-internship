@@ -1,5 +1,4 @@
-![image](https://github.com/AleeshaWaqar/AICP-internship/assets/149952308/4ae7a401-6ee2-4b22-8bc0-24363cd58f59)# AICP-internship
-AICP Internship: C++ Projects, Assignments, AI, and More – My Coding Journey
+ AICP Internship: C++ Projects, Assignments, AI, and More – My Coding Journey
 Task 1: PC customization software
 [AICP intership1.pdf](https://github.com/AleeshaWaqar/AICP-internship/files/13328743/AICP.intership1.pdf)
 Task 2: Electric mountain railway booking system
