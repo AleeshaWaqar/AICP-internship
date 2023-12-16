@@ -10,5 +10,4 @@ task 4: Geometric Marvels: Hexagon and Square Explorer
 task 6: sack ordering and delivery system
 [aicp internship 6.pdf](https://github.com/AleeshaWaqar/AICP-internship/files/13693624/aicp.internship.6.pdf)
 task 7: Donation system 
-
 [AICP internship7.pdf](https://github.com/AleeshaWaqar/AICP-internship/files/13693853/AICP.internship7.pdf)
