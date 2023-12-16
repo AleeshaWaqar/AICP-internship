@@ -7,3 +7,5 @@ task 3:
 [AICP internship3.pdf](https://github.com/AleeshaWaqar/AICP-internship/files/13402654/AICP.internship3.pdf)
 task 4: Geometric Marvels: Hexagon and Square Explorer
 [aicp internship 4.pdf](https://github.com/AleeshaWaqar/AICP-internship/files/13531687/aicp.internship.4.pdf)
+task 6: sack ordering and delivery system
+[aicp internship 6.pdf](https://github.com/AleeshaWaqar/AICP-internship/files/13693624/aicp.internship.6.pdf)
