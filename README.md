@@ -13,3 +13,5 @@ task 7: Donation system
 [AICP internship7.pdf](https://github.com/AleeshaWaqar/AICP-internship/files/13693853/AICP.internship7.pdf)
 task 8: boat booking system
 [AICP internship 8.pdf](https://github.com/AleeshaWaqar/AICP-internship/files/13693876/AICP.internship.8.pdf)
+task 5: tic tac toe 
+[Artificial intelligence community of Pakistan task 5.pdf](https://github.com/AleeshaWaqar/AICP-internship/files/13809559/Artificial.intelligence.community.of.Pakistan.task.5.pdf)
